@@ -2,7 +2,7 @@
 
 ## :newspaper: About the project
 
-Experimentes with ChatGPT 3.5 Turbo and Python.
+Experiments with ChatGPT 3.5 Turbo and Python.
 
 ### Content overview
 
