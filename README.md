@@ -8,12 +8,12 @@ Experiments with ChatGPT 3.5 Turbo and Python.
 
     .
     ├── LICENSE - license text
-    ├── main.py - mian program and logic
+    ├── main.py - main program and logic
     └── README.md - relevant information about the project
 
 ## :notebook: Features
 
-* Prompts as inputs and answered by GPT v3.5 Turbo.
+* Questions answered by GPT v3.5 Turbo.
 
 ## :runner: Getting started
 
